@@ -2,10 +2,7 @@ import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
   /* config options here */
-<<<<<<< HEAD
   reactCompiler: true,
-=======
->>>>>>> 06619e159b46ff0eb6f490cabb40ab49198e0302
 };
 
 export default nextConfig;
